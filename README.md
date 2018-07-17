@@ -1,4 +1,4 @@
-# Batch_USBGrabber [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/) [![GitHub license](https://img.shields.io/github/license/wsdt/Batch_Helper.svg)](https://github.com/wsdt/Batch_Helper/blob/master/LICENSE)
+# Batch_USBGrabber [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/) [![GitHub license](https://img.shields.io/github/license/wsdt/Batch_USBGrabber.svg)](https://github.com/wsdt/Batch_USBGrabber/blob/master/LICENSE)
 Simple usb grabber (copies all data of the first external drive it founds to your usb stick). Please be responsible, when using this software (see license). 
 
 ## How to get started
