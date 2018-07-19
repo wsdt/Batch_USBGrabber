@@ -8,3 +8,6 @@ Now all the data of the "victim"s usb stick is copied hiddenly/in background to 
 
 ## Contribution and info [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 Pull-requests and issues are welcome, despite I am not maintaining this application by myself. 
+
+## No Warranty
+As I made many years ago at school age, I just wanted to learn the language. This software was never used (without explicitely permission of all participants) outside of my own private network at home. So, I don't take any warranty in using this software and want to encourage you to use this software **only** for education purposes. Please be responsible and don't do sth. you will regret later. 
